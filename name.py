@@ -1,6 +1,6 @@
 
-print("bkanamar")
-print("bkanamar")
-print("bkanamar")
-print("bkanamar")
-print("bkanamar")
+print("bkanamar and amrita")
+print("bkanamar and amrita")
+print("bkanamar and amrita")
+print("bkanamar and amrita")
+print("bkanamar and amrita")
